@@ -100,7 +100,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mountain'],
       web: []
     };
     
@@ -116,19 +116,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
       }
     }
@@ -140,7 +140,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -156,19 +156,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
       }
     }
@@ -180,7 +180,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -196,19 +196,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
       }
     }
@@ -220,7 +220,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -236,19 +236,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
       }
     }
@@ -260,7 +260,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['field'],
       web: []
     };
     
@@ -276,19 +276,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mouth'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['heart'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
       }
     }
@@ -300,7 +300,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -316,19 +316,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
       }
     }
@@ -340,7 +340,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -356,19 +356,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['corpse'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
       }
     }
@@ -380,7 +380,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -396,19 +396,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['day'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -420,7 +420,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -436,15 +436,15 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
       }
     }
@@ -456,7 +456,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['water'],
       web: []
     };
     
@@ -472,19 +472,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -496,7 +496,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -512,19 +512,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['twenty'];
           break;
       }
     }
@@ -536,7 +536,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -552,19 +552,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['wood'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
       }
     }
@@ -576,7 +576,7 @@ class Telephone {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -592,19 +592,19 @@ class Telephone {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mouth'];
           break;
       }
     }
