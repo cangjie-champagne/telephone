@@ -996,7 +996,7 @@ class Telephone {
           break;
 
         case 'behavior':
-          result.wide = cangjie['waters'];
+          result.wide = cangjie['water'];
           break;
 
         case 'result':
